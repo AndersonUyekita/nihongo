@@ -1,6 +1,6 @@
-Aula de Japonês
+# Aula de Japonês
 
-- Professora: Evellyn
+- Professora: Evelyn
 - Dias de aula: **Segunda, Quarta e Sexta às 9:00 AM**
 - Local: Bunkyo de Mogi das Cruzes
 
@@ -30,4 +30,4 @@ Foi pago BRL 50,00 pela apostila.
 ## Organização dos arquivos contidos nessa pasta
 
 1. Para cada aula há uma anotação cujo nome é `AulaXX`;
-2. As Lições (`第 N 課`) estarão individualmente separadas por arquivos `Dai_N_ka_sufixo`, onde `N` é a lição e o `sufixo` pode ser exercícios de conversação (`kaiwa`), prática (`renshuu`) etc., ou os tópicos do livro como reibun, bunkei etc.. 
+2. As Lições (`第 N 課`) estarão individualmente separadas por arquivos `Dai_N_ka_sufixo`, onde `N` é a lição e o `sufixo` pode ser exercícios de conversação (`kaiwa`), prática (`renshuu`) etc., ou os tópicos do livro como reibun, bunkei etc..
